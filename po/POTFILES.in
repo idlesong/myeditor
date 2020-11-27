@@ -1,0 +1,6 @@
+data/resources/ui/about_dialog.ui.in
+data/resources/ui/shortcuts.ui
+data/resources/ui/window.ui.in
+data/me.idlesong.myeditor.desktop.in.in
+data/me.idlesong.myeditor.gschema.xml.in
+data/me.idlesong.myeditor.metainfo.xml.in.in
